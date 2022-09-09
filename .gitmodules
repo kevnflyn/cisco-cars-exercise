@@ -1,9 +1,9 @@
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/kevnflyn/cisco-cars-frontend.git
 [submodule "services"]
 	path = services
-	url = ./services
+	url = https://github.com/kevnflyn/cisco-cars-services.git
 [submodule "postgres-database"]
 	path = postgres-database
-	url = ./postgres-database
+	url = https://github.com/kevnflyn/postgres-database.git
