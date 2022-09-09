@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
+[submodule "services"]
+	path = services
+	url = ./services
