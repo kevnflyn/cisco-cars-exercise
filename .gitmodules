@@ -7,3 +7,6 @@
 [submodule "services"]
 	path = services
 	url = ./services
+[submodule "postgres-database"]
+	path = postgres-database
+	url = ./postgres-database
